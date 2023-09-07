@@ -2,7 +2,7 @@
 
 To create a bouncing ball with motion effects in Python, you can use the Pygame library. Motion effects could include acceleration, deceleration, or even gravity. Here's an example of a bouncing ball with acceleration due to gravity:
 
-+Desktop
++ Desktop
 First, make sure you have Pygame installed. You can install it using pip:
 ```
 pip install pygame

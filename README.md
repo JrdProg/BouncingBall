@@ -20,5 +20,5 @@ If you're using mobile just download a python IDE: <a href="https://play.google.
 This code creates a bouncing ball with motion effects, including acceleration due to gravity and bouncing off the walls and floor. You can adjust the GRAVITY constant and other parameters to customize the motion effects to your liking.
 
 follow me on:
-Facebook: <a href="https://facebook.com/chenzokiwasashi">John Rey Dagasdas</a>
-Instagram: <a href="https://instagram.com/jrndagasdaz">@jrndagasdaz</a>
++ Facebook: <a href="https://facebook.com/chenzokiwasashi">John Rey Dagasdas</a>
++ Instagram: <a href="https://instagram.com/jrndagasdaz">@jrndagasdaz</a>

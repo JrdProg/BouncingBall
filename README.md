@@ -7,7 +7,7 @@ First, make sure you have Pygame installed. You can install it using pip:
 pip install pygame
 ```
 # How to Install Pygame
-visit: <a href="https://www.partitionwizard.com/partitionmanager/how-to-install-pygame-on-windows-10.html"></a>
+visit: <a href="https://www.partitionwizard.com/partitionmanager/how-to-install-pygame-on-windows-10.html">https://www.partitionwizard.com/partitionmanager/how-to-install-pygame-on-windows-10.html</a>
 
 
 Create a Python script for the bouncing ball animation with motion effects copy code from <a href="">bouncingball.py</a>
